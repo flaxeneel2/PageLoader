@@ -1,0 +1,16 @@
+{
+  "name": "pageloader",
+  "version": "1.0.0",
+  "description": "Basically loads a page, mostly made it for testing out puppeteer for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flaxeneel2",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "figlet": "^1.5.0",
+    "puppeteer": "^8.0.0"
+  }
+}
